@@ -29,6 +29,6 @@ This is the template for the final report. Please replace the bracketed text wit
 * Network Traffic Analysis Report
 * Capture File: [Name of your .pcap file]
 * Protocols Identified:
-* * DNS: [Briefly describe what you observed, e.g., "I observed DNS queries being sent to 8.8.8.8 when I visited a new website."]
-* * HTTP: [Briefly describe your observations, e.g., "I saw HTTP GET requests for resources on a website I browsed."]
-* * TCP: [Briefly describe what you observed, e.g., "I saw TCP echo requests and replies when I used the 'ping' command."]
+ * **DNS**: [Briefly describe what you observed, e.g., "I observed DNS queries being sent to 8.8.8.8 when I visited a new website."]
+ * **HTTP**: [Briefly describe your observations, e.g., "I saw HTTP GET requests for resources on a website I browsed."]
+ * **TCP**: [Briefly describe what you observed, e.g., "I saw TCP echo requests and replies when I used the 'ping' command."]
